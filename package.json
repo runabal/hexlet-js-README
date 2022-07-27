@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-js-readme",
+"type": "module",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runabal/hexlet-js-README.git"
+  },
+  "keywords": [
+    "hexlet"
+  ],
+  "author": "Natalya B.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runabal/hexlet-js-README/issues"
+  },
+  "homepage": "https://github.com/runabal/hexlet-js-README#readme"
+}
